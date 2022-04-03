@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm currently an Engineering student.<br>
 Presently I'm learning:
 >HTML,
->GO,
+>JAVA,
 >Python
 and started to learn about DEVOPS , also starting to contribute to Open Source.
 
