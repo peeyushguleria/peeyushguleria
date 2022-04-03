@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently an Engineering student.
+I'm currently an Engineering student.<br>
 Presently I'm learning:
->HTML
->GO
+>HTML,
+>GO,
 >Python
 and started to learn about DEVOPS , also starting to contribute to Open Source.
 
