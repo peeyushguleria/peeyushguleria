@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Peeyush.
 
 <!--
 **peeyushguleria/peeyushguleria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently an Engineering student.
+Presently I'm learning:
+>HTML
+>GO
+>Python
+and started to learn about DEVOPS , also starting to contribute to Open Source.
+
+Connect me on:
+>Twitter : https://twitter.com/PeeyushGuleria
+>Instagram : https://www.instagram.com/hsuyeep26/
+
+
 
