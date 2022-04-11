@@ -3,7 +3,7 @@
 
 I'm currently an Engineering student.<br>
 Presently I'm learning:
-HTML , Python started to learn about DEVOPS , also starting to contribute to Open Source.
+HTML , JAVA and started to learn about DEVOPS . Also starting to contribute to Open Source.
 
 Connect me on:
 >Twitter : https://twitter.com/PeeyushGuleria
