@@ -1,7 +1,7 @@
 ### Hi there 👋 
 <img src="https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&w=1000&q=80" height=400; width=700>
 
-### About Myself🙋
+### About Myself💁
 My name is Peeyush Guleria and I'm pursuing my Bachelor's degree from National Institute of Technology , Hamirpur👨‍🎓. Also learning some programming technologies. And I believe in
 Learning in public and helping others by spreading the knowledge that I acquire.
 ### SkillSet.👨‍💻
