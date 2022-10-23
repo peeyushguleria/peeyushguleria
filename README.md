@@ -2,7 +2,7 @@
 <img src="https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&w=1000&q=80" height=400; width=700>
 
 ### About Myself💁
-My name is Peeyush Guleria and I'm pursuing my Bachelor's degree from National Institute of Technology , Hamirpur👨‍🎓. Also learning some programming technologies. I believe in
+My name is Peeyush and I'm pursuing my Bachelor's degree. Also learning some programming technologies. I believe in
 Learning in public and helping others by spreading the knowledge that I acquire.
 ### SkillSet.👨‍💻
 <img src="https://camo.githubusercontent.com/3750f5eb4ace5ece699ecba90b802a5f0dc3ba605f9f12cf5c80012846079535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d68746d6c352d6439353334663f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML img">
