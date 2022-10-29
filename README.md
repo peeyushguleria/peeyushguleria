@@ -13,7 +13,7 @@ Learning in public and helping others by spreading the knowledge that I acquire.
 
 
 
-### Let's connect?🤝
+### Let's connect🤝
 >Twitter : https://twitter.com/PeeyushGuleria<br>
 >Dev.to : https://dev.to/peeyushguleria<br>
 >Hashnode : https://hashnode.com/@hsuyeep26
