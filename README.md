@@ -49,13 +49,18 @@ I'm a software developer with a keen interest in Web Development and DevOps. I l
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-
+## Read my Blogs here:
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://peeyushguleria.hashnode.dev/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev-dot-to&logoColor=white)](https://dev.to/peeyushguleria/)
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NotHsuyeep26)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+
+
 
 ## GitHub Stats
 
