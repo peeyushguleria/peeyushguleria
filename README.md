@@ -1,4 +1,4 @@
-# Hi there, I'm Peeyush 👋
+<!-- # Hi there, I'm Peeyush 👋
 <img src="https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&w=1000&q=80" height=400; width=700>
 
 ### About Myself💁
@@ -20,6 +20,47 @@ Learning in public and helping others by spreading the knowledge that I acquire.
 
 ### Github stats.📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peeyushguleria)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+ -->
+
+# Hi there! 👋 I'm Peeyush Guleria
+
+
+
+## About Me
+
+I'm a software developer with a keen interest in Web Development and DevOps. I love turning ideas into code and enjoy tackling challenging problems. In my free time, you'll find me playing and watching football, also I love to draw and listen music.
+
+- 🌱 I’m currently learning about APIs and making projects using the same.
+- 🎓 I am an undergrad student currently studying civil engineeirng having interest in the tech side.
+
+## Skills
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![API](https://img.shields.io/badge/API-000000?style=flat&logo=api&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NotHsuyeep26)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+## GitHub Stats
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=peeyushguleria&show_icons=true&hide=contribs,issues)
 
 
 
