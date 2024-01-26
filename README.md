@@ -34,7 +34,7 @@ Learning in public and helping others by spreading the knowledge that I acquire.
 I'm a software developer with a keen interest in Web Development and DevOps. I love turning ideas into code and enjoy tackling challenging problems. In my free time, you'll find me playing and watching football, also I love to draw and listen music.
 
 - 🌱 I’m currently learning about APIs and making projects using the same.
-- 🎓 I am an undergrad student currently studying civil engineeirng having interest in webdevelopment.
+- 🎓 I am an undergrad student currently studying civil engineeirng having interest in web development.
 
 ## Skills
 
