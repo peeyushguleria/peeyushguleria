@@ -1,29 +1,4 @@
-<!-- # Hi there, I'm Peeyush 👋
-<img src="https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&w=1000&q=80" height=400; width=700>
-
-### About Myself💁
-My name is Peeyush and I'm pursuing my Bachelor's degree. Also learning some programming technologies. I believe in
-Learning in public and helping others by spreading the knowledge that I acquire.
-### SkillSet.👨‍💻
-<img src="https://camo.githubusercontent.com/3750f5eb4ace5ece699ecba90b802a5f0dc3ba605f9f12cf5c80012846079535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d68746d6c352d6439353334663f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML img">
-<img src="https://camo.githubusercontent.com/26c1c09348de5d88479009cc991878dd97db74300383acb7061072ed73618e0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d646f636b65722d3064623765643f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker img">
-<img src="https://camo.githubusercontent.com/973713a83a9b267768bdd9e7ad65a189864927a541ef5c5c0314aa40ed0b3bc6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6769742d4631353032463f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git img">
-<img src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" alt="Linux image">
-<img src="https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt ="github picture">
-
-
-
-### Let's connect🤝
->Twitter : https://twitter.com/PeeyushGuleria<br>
->Dev.to : https://dev.to/peeyushguleria<br>
->Hashnode : https://hashnode.com/@hsuyeep26
-
-### Github stats.📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peeyushguleria)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
- -->
+<!-- 
 
 # Hi there! 👋 I'm Peeyush Guleria
 
@@ -33,8 +8,8 @@ Learning in public and helping others by spreading the knowledge that I acquire.
 
 I'm a software developer with a keen interest in Web Development and DevOps. I love turning ideas into code and enjoy tackling challenging problems. In my free time, you'll find me playing and watching football, also I love to draw and listen music.
 
-- 🌱 I’m currently learning about APIs and making projects using the same.
 - 🎓 I am an undergrad student currently studying civil engineeirng having interest in web development.
+- 🌱 I’m currently learning about APIs and making projects using the same.
 
 ## Skills
 
@@ -69,3 +44,36 @@ I'm a software developer with a keen interest in Web Development and DevOps. I l
 
 
 
+ -->
+ <h1 align="center">Hi 👋, I'm Peeyush Guleria</h1>
+<h3 align="center">A Developer from India.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peeyushguleria&label=Profile%20views&color=0e75b6&style=flat" alt="peeyushguleria" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peeyushguleria" alt="peeyushguleria" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/nothsuyeep26" target="blank"><img src="https://img.shields.io/twitter/follow/nothsuyeep26?logo=twitter&style=for-the-badge" alt="nothsuyeep26" /></a> </p>
+
+- 🌱 I’m currently learning **Javscript**
+
+- 📝 I regularly write articles on [https://peeyushguleria.hashnode.dev/](https://peeyushguleria.hashnode.dev/)
+
+- 💬 Ask me about **HTML,CSS,Javascript,APIs**
+
+- 📫 How to reach me **peeyushguleria@gmail.com**
+
+- ⚡ Fun fact **I play and watch football.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/peeyushguleria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/peeyushguleria/" height="30" width="40" /></a>
+<a href="https://twitter.com/nothsuyeep26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nothsuyeep26" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://peeyushguleria.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://peeyushguleria.hashnode.dev/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peeyushguleria&show_icons=true&locale=en&layout=compact" alt="peeyushguleria" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peeyushguleria&" alt="peeyushguleria" /></p>
